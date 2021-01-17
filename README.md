@@ -27,6 +27,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 * Sort the DataFrame values by `date`.
 
 * Plot the results using the DataFrame `plot` method.
+  ![](precipitation_analysis.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -52,7 +53,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Plot the results as a histogram with `bins=12`.
     
-    []!(temperature_frequency.png)
+     ![](temperature_frequency.png)
 
 * Close out your session.
 
